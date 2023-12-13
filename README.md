@@ -28,14 +28,12 @@ This Smart Irrigation System is designed to optimize water usage in agriculture 
 
 1\. Clone the repository:
 
-    ```
-   https://github.com/alok2802/Smart-Irrigation-System
+    ```https://github.com/alok2802/Smart-Irrigation-System
     ```
 
 2\. Navigate to the project directory:
 
-    ```
-    cd Smart-Irrigation-System\
+    ```cd Smart-Irrigation-System\
     ```
 
 3\. Upload the embedded C code to your microcontroller.
