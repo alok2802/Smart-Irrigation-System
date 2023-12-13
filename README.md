@@ -1,6 +1,6 @@
 # Smart Irrigation System
 
-![Smart Irrigation System](./SimulationResult.jpg)
+![Smart Irrigation System](SimulationResult.jpg)
 
 ## Overview
 
